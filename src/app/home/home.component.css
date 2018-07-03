@@ -1,0 +1,7 @@
+.cardBody {
+  margin-top: 10px;
+  margin-left: 25px;
+  margin-bottom: 10px;
+  min-height: 200px;
+  max-height: 200px;
+}
